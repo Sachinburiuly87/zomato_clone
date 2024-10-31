@@ -7,7 +7,7 @@ body{
     box-shadow: -1px 2px 5px -1px rgba(0,0,0,0.64);
     position: sticky;
     top: 0;
-    z-index: 5000;
+    z-index: 1000;
     font-size: large;
 }
 .carousel-inner img{
